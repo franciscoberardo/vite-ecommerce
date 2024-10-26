@@ -1,0 +1,57 @@
+{
+    "OfferBanner": {
+      "offerText": "¡Limited time offers, 50% OFF!" ,
+      "about": "About Us",
+      "contact": "Contact"
+    },
+    "Header": {
+        "title": "Design your ideas with PrinterAll",
+        "findButton": "Find our designs",
+        "askButton": "Ask for your own design"
+    },
+    "ProductList": { 
+        "successfullyAdded": "¡Successfully added to cart!",
+        "addToCart": "Add to Cart",
+        "seeMore": "See all products",
+        "filterByCategory": "Filter By Category",
+        "showAll": "Show all",
+        "ourCategories": "Our Categories",
+        "loadingCategories": "Loading Categories..."
+    },
+    "Footer": {
+        "exceptionalQuality" : "Exceptional Quality",
+        "freeWorldwideShipping": "Free Worldwide Shipping",
+        "easyInstallation": "Easy Installation",
+        "qualityText": "Durable, weather-proof metal and a premium finish define our wall art's exceptional quality",
+        "shippingText": "No hidden costs, no surprises; we ship to your doorstep for free!",
+        "installationText": "No need for professional help; our wall art comes with simple instructions and all necessary hardware."
+    },
+    "Cart":{
+        "noProducts": "No products in the cart.",
+        "yourCart": "Your Cart",
+        "product": "Product",
+        "quantity": "Quantity",
+        "price": "Price",
+        "actions": "Actions",
+        "checkout": "Checkout"
+    },
+    "Checkout":{
+        "customerData": "Customer data",
+        "name": "Name",
+        "yourName": "Your Name",
+        "yourEmail": "youremail@example.com",
+        "yourMessage": "Your message"
+    },
+    "Contact": {
+        "contactUs": "Contact Us",
+        "name": "Name",
+        "yourName": "Your Name",
+        "yourEmail": "youremail@example.com",
+        "yourMessage": "Your message",
+        "designYourIdeas": "Design your ideas with us",
+        "loveToHear": "We would love to hear from you!",
+        "email": "Email",
+        "message": "Message",
+        "sendMessage": "Send Message"
+    }
+}

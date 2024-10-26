@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes marquee {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+  }
+  
+  .animate-marquee {
+    display: inline-block;
+    white-space: nowrap;
+    animation: marquee 25s linear infinite;
+  }
+  
+  .marquee-container {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-marquee-reverse {
+    display: inline-block;
+    white-space: nowrap;
+    animation: marquee 30s linear infinite; /* Ajusta el tiempo según la velocidad que prefieras */
+  }
+  
+  .carousel-container {
+    overflow: hidden; /* Oculta el desbordamiento */
+  }
+  
+  .slick-slide {
+    transition: transform 0.5s ease; /* Suaviza la transición */
+  }
+  
+  
+  .marquee {
+    overflow: hidden;
+    white-space: nowrap;
+    box-sizing: border-box;
+    width: 100%; /* Ajusta el ancho según sea necesario */
+  }
+  
+  .marquee-content {
+    display: inline-block;
+    animation: marquee 10s linear infinite; /* Ajusta la duración según sea necesario */
+  }
+  
+  .marquee-item {
+    display: inline-block;
+    padding: 0 2rem; /* Espaciado entre los elementos */
+    font-weight: bold;
+    font-size: 0.875rem; /* Tamaño de texto pequeño */
+  }
+  
+  /* Animación */
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%); /* Comienza fuera de la vista a la derecha */
+    }
+    100% {
+      transform: translateX(-100%); /* Termina fuera de la vista a la izquierda */
+    }
+  }
+  
+  

@@ -1,0 +1,52 @@
+{
+    "OfferBanner": {
+      "offerText": "¡Oferta por tiempo limitado, 50% OFF!" ,
+      "about": "About Us",
+      "contact": "Contact"
+    },
+    "Header": {
+        "title": "Diseña tus ideas con PrinterAll",
+        "findButton": "Encuentra nuestros diseños",
+        "askButton": "Pregunta por diseños propios"
+    },
+    "ProductList": { 
+        "successfullyAdded": "¡Exitosamente agregado al carrito!",
+        "addToCart": "Agregar",
+        "loadingImages": "Cargando imagenes",
+        "seeMore": "Ver todos los productos",
+        "filterByCategory": "Filtrar por categoria",
+        "showAll": "Mostrar todos",
+        "ourCategories": "Nuestas Categorias",
+        "loadingCategories": "Cargando categorias..."
+
+    },
+    "Footer": { 
+        "exceptionalQuality": "Calidad excepcional", 
+        "freeWorldwideShipping": "Envío gratuito a todo el mundo", 
+        "easyInstallation": "Fácil instalación",
+        "qualityText": "El metal duradero y resistente a la intemperie y un acabado de primera calidad definen la calidad excepcional de nuestro arte mural",
+        "shippingText": "Sin costos ocultos, sin sorpresas; ¡enviamos a tu puerta sin cargo!",
+        "installationText": "No necesitas ayuda profesional; nuestro arte mural viene con instrucciones simples y todo el hardware necesario."
+    },
+    "Cart":{
+        "noProducts": "No hay productos en el carrito.",
+        "yourCart": "Carrito",
+        "product": "Producto",
+        "quantity": "Cantidad",
+        "price": "Precio",
+        "actions": "Acciones",
+        "checkout": "Checkout"
+    },
+    "Contact": {
+        "contactUs": "Contactanos",
+        "name": "Nombre",
+        "yourName": "Tu Nombre",
+        "yourEmail": "tumail@example.com",
+        "yourMessage": "Tu mensaje",
+        "designYourIdeas": "Diseña tus ideas",
+        "loveToHear": "Nos encantaría saber de vos",
+        "email": "Email",
+        "message": "Mensaje",
+        "sendMessage": "Enviar mensaje"
+    }
+}
